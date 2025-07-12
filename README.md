@@ -64,6 +64,3 @@ php websocket-server.php
 ## Security Notes
 - All user input is sanitized to prevent XSS
 - Passwords are securely hashed
-
-## License
-MIT 
